@@ -1,53 +1,66 @@
 <h1 align="center">Hey there, I'm Kamal Akhter 👋</h1>
-<p align="center"><strong>Cybersecurity Enthusiast 🛡 | Penetration Tester 💻 | AI & Security Researcher 🤖</strong></p>
-
+<p align="center"><strong>Cybersecurity Student 🔐 | Aspiring Penetration Tester 🛡 | AI/ML in Security Explorer 🤖</strong></p>
 <p align="center">
   <a href="https://github.com/Akhter313"><img src="https://img.shields.io/github/followers/Akhter313?label=GitHub&style=social" /></a>
-  <a href="http://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Cyber Security – 3rd Year | Central University of Jammu (under DRDO mentorship)  
-- 🔍 Passionate about **penetration testing, vulnerability assessment, and AI-driven security**  
-- 📌 Recently completed **Internship at IIT Patna** – *Comparative Analysis of PentestGPT using Different LLM Models* and penetration testing  
-- 💡 Building tools for ethical hacking, automation, and digital forensics  
-- 🎯 Goal: Become a highly skilled penetration tester and security researcher  
+- 🎓 B.Tech CSE (Cyber Security) – 3rd Year @ Central University of Jammu  
+- 💻 Hands-on experience in penetration testing, red teaming & cryptography  
+- 🔍 Passionate about real-world security challenges and AI-powered solutions  
+- ⚙ Constantly building, breaking, analyzing, and automating security tools  
 
 ---
 
 ## 🔥 Latest Highlights
 
-- 🛡 **PentestGPT LLM Analysis** – Compared multiple LLM models (GPT-4o, Gemini 2.5, GPT4All, DeepSeek) for automated penetration testing  
-- 🖥 **Developed security tools** including:
-  - [SafeSathi](https://github.com/Akhter313/SafeSathi) – Online safety & awareness platform  
-  - [CipherX](https://github.com/Akhter313/CipherX) – Cryptographic web application supporting multiple cipher methods  
-  - [Image Metadata Extractor](https://github.com/Akhter313/Image-Metadata-Extractor) – Forensic tool for EXIF data extraction  
-- 🎓 Ethical Hacker Badge – Internship program  
-- 📈 Active learner on cybersecurity platforms & AI research  
+- 🛡 Completed Internship at **ShadowFox** (Cybersecurity)  
+- 🎯 Penetration Testing Intern @ **Hacktify** – Performed red teaming, phishing simulations, and vulnerability assessments  
+- 🧪 Completed **IIT Patna Internship** – *Comparative Analysis of PentestGPT using different LLM models & penetration testing*  
+- 📢 Attended DEF CON 0x07 Delhi & National Workshop on Mobile Device Security (IIT Jammu)  
+- 💡 Developed and deployed multiple cybersecurity tools & awareness platforms  
 
 ---
 
-## 💼 Internship & Experience
+## 💼 Current Engagements
 
-- **Cybersecurity Research Intern – IIT Patna** *(May 2024 – July 2024)*  
-  Conducted comparative analysis of PentestGPT using different LLM models, tested automated penetration testing workflows, and documented performance & limitations.
+- 🛠 Enhancing AI-driven cyber threat detection  
+- 🔍 Researching penetration testing automation using LLMs  
+- 📚 Preparing for advanced offensive security certifications  
 
-- **Previous Academic & Lab Work**  
-  - DRDO-mentored cybersecurity research projects  
-  - Real-world cryptographic application development  
-  - Cyber incident response simulations  
+---
+
+## 🧪 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [PentestGPT LLM Analysis](https://github.com/Akhter313) | 📊 Compared multiple LLMs for penetration testing automation |
+| [SafeSathi](https://github.com/Akhter313/SafeSathi) | 🤖 AI-powered WhatsApp interface for scam detection & social engineering awareness |
+| [CipherX](https://github.com/Akhter313/CipherX) | 🔐 Flask web app implementing multiple cryptographic algorithms |
+| [Image Metadata Extractor](https://github.com/Akhter313/Image-Metadata-Extractor) | 🖼 Tool for extracting hidden EXIF metadata from images |
+
+---
+
+## 🎓 Certifications & Training
+
+- ✅ Ethical Hacker – Cisco Networking Academy  
+- ✅ Network Fundamentals – Cybrary  
+- ✅ Python for Cybersecurity Professionals – Cybrary  
+- 🚀 DEF CON 0x07 Delhi & IIT Jammu Security Workshop Participant  
 
 ---
 
 ## 🧠 Skills & Stack
 
-- **Languages**: Python, Bash, C, C++  
-- **Security Tools**: Kali Linux, Metasploit, Wireshark, Burp Suite, Nmap, Hydra, OpenVAS  
-- **Specialties**: Penetration Testing, Vulnerability Assessment, Incident Response, Cryptography, Digital Forensics  
-- **ML/AI Tools**: Pandas, NumPy, Matplotlib, Scikit-learn (basic), LLM APIs (OpenAI, Gemini, DeepSeek)  
+- 🛠 *Languages*: Python, Bash, HTML/CSS  
+- 🔍 *Security Tools*: Metasploit, Wireshark, Nmap, Burp Suite  
+- 🐧 *Platforms*: Kali Linux, Ubuntu, GitHub  
+- 📊 *Other Skills*: Incident Response, OSINT, ISO 27001  
+- 🧠 *Domains*: Penetration Testing, Cryptography, AI in Security  
 
 ---
 
@@ -60,13 +73,4 @@
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="http://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Akhter313"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-<p align="center"><i>"In cybersecurity, curiosity is the best tool in your arsenal." – Kamal Akhter 🛡</i></p>
+<p align="center"><i>"Security isn't just a skill — it's a mindset." – Kamal Akhter 🛡</i></p>
