@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (Cyber Security) – 3rd Year @ Central University of Jammu  
+- 🎓 B.Tech CSE (Cyber Security) – 4th Year @ Central University of Jammu  
 - 💻 Hands-on experience in penetration testing, red teaming & cryptography  
 - 🔍 Passionate about real-world security challenges and AI-powered solutions  
 - ⚙ Constantly building, breaking, analyzing, and automating security tools  
