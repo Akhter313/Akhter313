@@ -1,92 +1,85 @@
-Hi there, I'm Kamal Akhter! 👋
-Cybersecurity Enthusiast | Aspiring Red Teamer & Penetration Tester | B.Tech Cyber Security Student under DRDO Mentorship
-Welcome to my GitHub profile! I'm a passionate third-year Bachelor of Technology student specializing in Cyber Security, currently under the esteemed mentorship of DRDO. My journey in cybersecurity is driven by a deep fascination with exploring weaknesses and understanding how attackers think to improve defenses.
+<h1 align="center">Hey there, I'm Kamal Akhter 👋</h1>
+<p align="center"><strong>Cybersecurity Enthusiast 🛡 | Penetration Testing Learner 💻 | AI in Security Explorer 🤖</strong></p>
+<p align="center">
+  <a href="https://github.com/Akhter313"><img src="https://img.shields.io/github/followers/Akhter313?label=GitHub&style=social" /></a>
+  <a href="http://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
+</p>
 
-I am particularly interested in red teaming and penetration testing, where I enjoy the challenge of problem-solving and continuously developing my skills. I'm always eager to stay updated on new threats and believe in the power of collaboration and knowledge-sharing within the cybersecurity community.
+---
 
-I'm looking forward to connecting with like-minded professionals and exploring the vast possibilities within the cybersecurity field.
+## 🚀 About Me
 
-🛠️ Technical Skills & Expertise
-Here's an overview of my technical capabilities and areas of focus:
+- 🎓 **B.Tech in Computer Science (Cyber Security)** – Central University of Jammu | 3rd Year  
+- 🧠 Passionate about **penetration testing, AI in cybersecurity, and secure coding**  
+- 🛠 Skilled at **breaking, securing, and analyzing systems ethically**  
+- 📌 Currently learning **Python, deep security concepts, and AI-driven testing tools**  
 
-Category	Skills/Tools	Proficiency Level
-Programming Languages	Python, Bash/Shell Scripting	Intermediate/Foundational
-Cybersecurity Tools	Nmap, Metasploit, Wireshark, Burp Suite, OWASP ZAP, SQLMap, John the Ripper/Hashcat	Foundational/Learning
-Security Concepts	Penetration Testing, Red Teaming, Vulnerability Assessment, Exploit Development, Web Application Security, Network Security, Digital Forensics, Cryptography, Incident Response	Foundational
-Operating Systems	Linux (Kali Linux, Parrot OS), Windows	Intermediate
+---
 
-Export to Sheets
-💼 Professional Experience
-My internships have provided me with foundational insights and practical exposure to various aspects of cybersecurity:
+## 🔥 Latest Highlights
 
-Hacktify Cyber Security | Penetration Testing Intern (February 2025 - March 2025) 
+- 🏛 **Summer Internship at IIT Patna** – *Comparative Analysis of PentestGPT Using Different LLM Models & Penetration Testing*  
+- 🛡 Gained hands-on experience with **PentestGPT**, Gemini, GPT-4o, GPT4All, and DeepSeek models  
+- 🧠 Applied **prompt injection & security testing approaches** to evaluate AI-based penetration testing tools  
+- 📈 Built practical understanding of **LLM performance, vulnerability analysis, and report writing**
 
-Participated in penetration testing exercises, gaining hands-on experience with ethical hacking methodologies.
+---
 
-Assisted in identifying vulnerabilities and understanding attack surfaces.
+## 🧪 Featured Projects
 
-ShadowFox | Cyber Security Intern (January 2025 - January 2025) 
+| Project | Description |
+|--------|-------------|
+| **PentestGPT LLM Analysis** | 📊 Benchmarked multiple LLMs for penetration testing tasks |
+| [Cryptographic Methods Web App](https://github.com/Akhter313) | 🔐 Implemented XOR, Caesar, Substitution, Base64 encoding/decoding |
+| **Digital Diary App** | 🗒 Personal note-taking web app with secure authentication |
+| **Cyber Incident Feed Tool (WIP)** | 🚨 Real-time feed of cyber incidents in Indian cyberspace |
 
-Contributed to cybersecurity initiatives and gained practical insights into cyber defense.
+---
 
-Also served as a Campus Ambassador (January 2025 - Present), supporting community engagement for security awareness.
+## 🎓 Certifications & Training
 
-The Red Users | Cyber Security Intern (November 2024 - November 2024) 
+- ✅ *Ethical Hacking Badge* – Internship Project  
+- ✅ *Machine Learning Practical File* – Binary classification preprocessing  
+- 🔍 *Secure Coding* & *Advanced Cryptography* coursework  
+- 📚 Currently pursuing *Deep Learning, IoT, Robotics & AI* as part of curriculum
 
-Assisted in security assessments and learned about threat analysis.
+---
 
-Contributed to understanding security postures.
+## 🧠 Skills & Tools
 
-🚀 Projects & Contributions
-While my professional experience is growing, I am actively building my portfolio with projects that demonstrate my practical skills and align with my interests in red teaming and penetration testing.
+- 🛠 *Languages*: Python, Bash, C, C++ (basics), HTML/CSS  
+- 🔍 *Security Tools*: Nmap, Metasploit, Burp Suite, Hydra, Wireshark  
+- 🐧 *Platforms*: Kali Linux, Ubuntu, GitHub  
+- 📊 *ML Tools*: Pandas, NumPy, Matplotlib, Scikit-learn  
+- 🧠 *Domains*: Penetration Testing, AI in Security, Cryptography, Secure Web Development
 
-My Cybersecurity Lab / CTF Write-ups:
+---
 
-(Future Project Idea) Repository for personal lab setups, proof-of-concept exploits, or detailed write-ups of Capture The Flag (CTF) challenges solved. This will showcase problem-solving abilities and the practical application of red teaming and penetration testing skills.
+## 📊 GitHub Stats
 
-Tool Development:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhter313&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhter313&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-(Future Project Idea) Small scripts, such as a Python script for network scanning, a web vulnerability scanner, or a Bash script for automating security tasks, demonstrating practical scripting skills.
+---
 
-Security Research Notes:
+## 🧭 Future Goals
 
-(Future Project Idea) Repository containing research on new vulnerabilities, attack techniques, or defensive strategies.
+- 📚 Advance penetration testing skills and achieve **OSCP / CEH certifications**  
+- 🤖 Research more on **AI-powered security tools**  
+- 🎯 Build real-world open-source tools for offensive security testing
 
-Internship Learnings:
+---
 
-(Future Project Idea) A repository documenting key takeaways, methodologies, or challenges encountered during internships (e.g., "Hacktify-Pentest-Learnings").
+## 🌐 Let's Connect
 
-🎓 Academic Foundations & Certifications
-My academic background and certifications provide a strong theoretical and foundational understanding of cybersecurity:
+<p align="center">
+  <a href="http://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Akhter313"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
 
-Bachelor of Technology - BTech Cyber Security | CENTRAL UNIVERSITY OF JAMMU (2022 - 2026) 
+---
 
-Currently in my 3rd year. This program is under the mentorship of DRDO, signifying a rigorous curriculum and exposure to advanced cybersecurity concepts.
+<p align="center"><i>"Security is not just about finding flaws — it’s about understanding systems deeply."</i></p>
 
-Cybersecurity Job Simulation (pwc) | Issued November 2024 
-
-Network Fundamentals (Cybrary) | Issued September 2024 
-
-Cybersecurity Job Simulation (Mastercard) 
-
-🎯 Career Interests & Future Goals
-My primary career interests lie in red teaming and penetration testing. I am passionate about understanding attacker methodologies to build more resilient defenses.
-
-My future goals include:
-
-Mastering advanced exploitation frameworks and techniques.
-
-Actively contributing to open-source security projects.
-
-Pursuing advanced certifications relevant to offensive security (e.g., OSCP, eJPT).
-
-Continuously developing my skills through collaboration and knowledge-sharing.
-
-📧 Connect With Me
-Let's connect and explore the possibilities within the cybersecurity field!
-
-LinkedIn: linkedin.com/in/313-akhter 
-
-GitHub: github.com/Akhter313
-
-(Add your email address here)
