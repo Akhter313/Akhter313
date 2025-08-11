@@ -64,8 +64,4 @@
 
 ---
 
-
-
----
-
 <p align="center"><i>"Security isn't just a skill — it's a mindset." – Kamal Akhter 🛡</i></p>
