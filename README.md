@@ -38,7 +38,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [PentestGPT LLM Analysis](https://github.com/Akhter313) | 📊 Compared multiple LLMs for penetration testing automation |
+| [PentestGPT LLM Analysis](https://github.com/Akhter313/PentestGPT-LLM-Analysis) | 📊 Comparative analysis of PentestGPT using different LLMs for penetration testing (includes full internship report & certificate) |
 | [SafeSathi](https://github.com/Akhter313/SafeSathi) | 🤖 AI-powered WhatsApp interface for scam detection & social engineering awareness |
 | [CipherX](https://github.com/Akhter313/CipherX) | 🔐 Flask web app implementing multiple cryptographic algorithms |
 | [Image Metadata Extractor](https://github.com/Akhter313/Image-Metadata-Extractor) | 🖼 Tool for extracting hidden EXIF metadata from images |
