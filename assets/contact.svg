@@ -1,5 +1,5 @@
 <svg width="100%" viewBox="0 0 680 36" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>ping -c 1 contact</title>
+  <title>ping -c 2 contact</title>
   <rect x="0" y="0" width="680" height="36" fill="#0d1117"/>
   <defs>
     <linearGradient id="fade5" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -12,6 +12,6 @@
   <rect x="0" y="4" width="3.5" height="28" rx="1.5" fill="#f5a200" fill-opacity="0.9"/>
   <text x="14" y="24" font-family="monospace" font-size="16" font-weight="400" fill="#f5a200" fill-opacity="0.7">#</text>
   <text x="28" y="24" font-family="monospace" font-size="16" font-weight="400" fill="#aaaaaa">`</text>
-  <text x="38" y="24" font-family="monospace" font-size="16" font-weight="700" fill="#e8e8e8">ping -c 1 contact</text>
+  <text x="38" y="24" font-family="monospace" font-size="16" font-weight="700" fill="#e8e8e8">ping -c 2 contact</text>
   <text x="232" y="24" font-family="monospace" font-size="16" font-weight="400" fill="#aaaaaa">`</text>
 </svg>
