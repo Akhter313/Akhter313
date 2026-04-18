@@ -20,9 +20,10 @@ I am a final-year Cybersecurity student with hands-on experience in security res
 
 ![skills](./assets/skills.svg)
 
-[+] **Languages** -> Python, Bash<br>
-[+] **Recon & Testing** -> Burp Suite, Nmap, httpx, ffuf, Amass, Subfinder<br>
-[+] **Analysis** -> Wireshark, Splunk, Wazuh<br>
+[+] **Security Tools** -> Burp Suite, Metasploit, Nmap, Wireshark, Nessus, Kali Linux, Splunk, Wazuh, Amass, Subfinder, httpx, ffuf<br>
+[+] **Security Concepts** -> Web Application Security, Threat Modeling, External Attack Surface Management (EASM), OWASP Top 10<br>
+[+] **Networking & Protocols** -> TCP/IP, DNS, HTTP/S, TLS/SSL, ICMP, Packet Analysis, VPNs<br>
+[+] **Programming & Scripting** -> Python, Bash<br>
 
 ![contact](./assets/contact.svg)
 
