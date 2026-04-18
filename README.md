@@ -5,9 +5,10 @@
 
 I am a final-year Cybersecurity student with hands-on experience in security research, threat hunting, and OSINT. I actively map external attack surfaces, detect phishing infrastructure, hunt for logic flaws, and build tools that automate the boring parts of recon.
 
+
 ![status](./assets/status.svg)
 
-[+] **Bounties Target** -> hunting business logic flaws and hardcoded credentials<br>
+[+] **Bounty Focus** -> hunting business logic flaws and hardcoded credentials<br>
 [+] **Current Shell**   -> Threat Hunter Intern @ Techowl Infosec<br>
 [+] **Active Focus**    -> EASM, phishing infra detection, black-box web assessments<br>
 [+] **Recent Milestones** -> Runner-Up ISEA Hackathon | Top 6 Hac'KP | multiple valid bug bounty reports<br>
