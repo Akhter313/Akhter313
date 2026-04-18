@@ -14,9 +14,9 @@ I am a final-year Cybersecurity student with hands-on experience in security res
 [+] recent milestones -> Runner-Up ISEA Hackathon | Top 6 Hac'KP | multiple valid bug bounty reports
 ```
 ![projects](./assets/projects.svg)
-- 🕷️ **[ReconOrchestrator](https://github.com/Akhter313/ReconOrchestrator):** A controlled concurrency engine for web application fuzzing. [cite_start]Built with automated rate-limiting and exponential backoff to dynamically bypass cloud protection layers. [cite: 29, 30, 31]
-- [cite_start]📱 **[AndroNet](https://github.com/Akhter313/AndroNet):** A dual-mode mobile packet analyzer built for Kali NetHunter, capturing real-time traffic from rooted and unrooted environments. [cite: 21, 23, 24]
-- [cite_start]🔍 **[Image Metadata Extractor](https://github.com/Akhter313):** A Python tool developed to extract EXIF metadata (GPS, camera details, timestamps) for rapid digital forensics. [cite: 25, 27, 28]
+-  **[AndroNet](https://github.com/Akhter313/AndroNet):** A dual-mode mobile packet analyzer built for Kali NetHunter, capturing real-time traffic from rooted and unrooted environments.
+-  **[ReconOrchestrator](https://github.com/Akhter313/ReconOrchestrator):** A controlled concurrency engine for web application fuzzing. Built with automated rate-limiting and exponential backoff to dynamically bypass cloud protection layers.
+-  **[AI Digital Forensics Suite](https://github.com/Akhter313/HacKP-2025_AI):** A collection of AI-driven investigative tools built for Hac'KP 2025. Features include image metadata analysis, object segmentation, and similarity scoring.
 
 ![skills](./assets/skills.svg)
 - **Languages:** Python, Bash
