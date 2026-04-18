@@ -1,67 +1,28 @@
-<h1 align="center">Hey there, I'm Kamal Akhter 👋</h1>
-<p align="center"><strong>Cybersecurity Student @CUJ (DRDO Mentorship)  | Penetration Tester  | Security Researcher </strong></p>
-<p align="center">
-  <a href="https://github.com/Akhter313"><img src="https://img.shields.io/github/followers/Akhter313?label=GitHub&style=social" /></a>
-  <a href="https://linkedin.com/in/313-akhter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
-</p>
+![whoami](./assets/whoami.svg)
 
----
+### Kamal Akhter
+`Security Researcher` | `Threat Hunter` | `CTF Player`
 
-##  About Me
+I am a final-year Cybersecurity student with hands-on experience in security research, threat hunting, and OSINT. I actively map external attack surfaces, detect phishing infrastructure, hunt for logic flaws, and build tools that automate the boring parts of recon.
 
--  B.Tech CSE (Cyber Security) – 4th Year @ Central University of Jammu  
--  Hands-on experience in penetration testing,Vulnerability Assessment & SOC  
--  Passionate about real-world security challenges and AI-powered solutions  
--  Constantly building, breaking, analyzing, and automating security tools  
+![status](./assets/status.svg)
 
----
+```text
+[+] bounties target   -> hunting business logic flaws and hardcoded credentials
+[+] current shell     -> Threat Hunter Intern @ Techowl Infosec
+[+] active focus      -> EASM, phishing infra detection, black-box web assessments
+[+] recent milestones -> Runner-Up ISEA Hackathon | Top 6 Hac'KP | multiple valid bug bounty reports
+```
+![projects](./assets/projects.svg)
+- 🕷️ **[ReconOrchestrator](https://github.com/Akhter313/ReconOrchestrator):** A controlled concurrency engine for web application fuzzing. [cite_start]Built with automated rate-limiting and exponential backoff to dynamically bypass cloud protection layers. [cite: 29, 30, 31]
+- [cite_start]📱 **[AndroNet](https://github.com/Akhter313/AndroNet):** A dual-mode mobile packet analyzer built for Kali NetHunter, capturing real-time traffic from rooted and unrooted environments. [cite: 21, 23, 24]
+- [cite_start]🔍 **[Image Metadata Extractor](https://github.com/Akhter313):** A Python tool developed to extract EXIF metadata (GPS, camera details, timestamps) for rapid digital forensics. [cite: 25, 27, 28]
 
-##  Latest Highlights
+![skills](./assets/skills.svg)
+- **Languages:** Python, Bash
+- **Recon & Testing:** Burp Suite, Nmap, httpx, ffuf, Amass, Subfinder
+- **Analysis:** Wireshark, Splunk, Wazuh
 
--  Completed Internship at **ShadowFox** (Cybersecurity)  
--  Penetration Testing Intern @ **Hacktify** – Performed red teaming, phishing simulations, and vulnerability assessments  
--  Completed **IIT Patna Internship** – *Comparative Analysis of PentestGPT using different LLM models & penetration testing*  
--  Attended DEF CON 0x07 Delhi & National Workshop on Mobile Device Security (IIT Jammu)  
--  Developed and deployed multiple cybersecurity tools & awareness platforms  
-
----
-
-##  Current Engagements
-
--  Enhancing AI-driven cyber threat detection  
--  Researching penetration testing automation using LLMs  
--  Preparing for advanced offensive security certifications  
-
----
-
-##  Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [PentestGPT LLM Analysis](https://github.com/Akhter313/PentestGPT-LLM-Analysis) |  Comparative analysis of PentestGPT using different LLMs for penetration testing (includes full internship report & certificate) |
-| [SafeSathi](https://github.com/Akhter313/SafeSathi) |  AI-powered WhatsApp interface for scam detection & social engineering awareness |
-| [CipherX](https://github.com/Akhter313/CipherX) |  Flask web app implementing multiple cryptographic algorithms |
-| [Image Metadata Extractor](https://github.com/Akhter313/Image-Metadata-Extractor) |  Tool for extracting hidden EXIF metadata from images |
-
----
-
-##  Certifications & Training
-
--  Ethical Hacker – Cisco Networking Academy  
--  Network Fundamentals – Cybrary  
--  Python for Cybersecurity Professionals – Cybrary  
--  DEF CON 0x07 Delhi & IIT Jammu Security Workshop Participant  
-
----
-
-##  Skills & Stack
-
--  *Languages*: Python, Bash, HTML/CSS  
--  *Security Tools*: Metasploit, Wireshark, Nmap, Burp Suite  
--  *Platforms*: Kali Linux, Ubuntu, GitHub  
--  *Other Skills*: Incident Response, OSINT, ISO 27001  
--  *Domains*: Penetration Testing, Cryptography, AI in Security  
-
----
-
-<p align="center"><i>"Security isn't just a skill - it's a mindset." – Kamal Akhter 🛡</i></p>
+![contact](./assets/contact.svg)
+- [LinkedIn](https://www.linkedin.com/in/313-akhter/)
+- [Email](mailto:akhterkamal815@gmail.com)
