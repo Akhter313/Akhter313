@@ -7,22 +7,24 @@ I am a final-year Cybersecurity student with hands-on experience in security res
 
 ![status](./assets/status.svg)
 
-```text
-[+] bounties target   -> hunting business logic flaws and hardcoded credentials
-[+] current shell     -> Threat Hunter Intern @ Techowl Infosec
-[+] active focus      -> EASM, phishing infra detection, black-box web assessments
-[+] recent milestones -> Runner-Up ISEA Hackathon | Top 6 Hac'KP | multiple valid bug bounty reports
-```
+[+] **Bounties Target** -> hunting business logic flaws and hardcoded credentials<br>
+[+] **Current Shell**   -> Threat Hunter Intern @ Techowl Infosec<br>
+[+] **Active Focus**    -> EASM, phishing infra detection, black-box web assessments<br>
+[+] **Recent Milestones** -> Runner-Up ISEA Hackathon | Top 6 Hac'KP | multiple valid bug bounty reports<br>
+
 ![projects](./assets/projects.svg)
--  **[AndroNet](https://github.com/Akhter313/AndroNet):** A dual-mode mobile packet analyzer built for Kali NetHunter, capturing real-time traffic from rooted and unrooted environments.
--  **[ReconOrchestrator](https://github.com/Akhter313/ReconOrchestrator):** A controlled concurrency engine for web application fuzzing. Built with automated rate-limiting and exponential backoff to dynamically bypass cloud protection layers.
--  **[AI Digital Forensics Suite](https://github.com/Akhter313/HacKP-2025_AI):** A collection of AI-driven investigative tools built for Hac'KP 2025. Features include image metadata analysis, object segmentation, and similarity scoring.
+
+[+] **[AndroNet](https://github.com/Akhter313/AndroNet)** -> A dual-mode mobile packet analyzer built for Kali NetHunter, capturing real-time traffic from rooted and unrooted environments.<br>
+[+] **[ReconOrchestrator](https://github.com/Akhter313/ReconOrchestrator)** -> A controlled concurrency engine for web application fuzzing. Built with automated rate-limiting and exponential backoff to dynamically bypass cloud protection layers.<br>
+[+] **[AI Digital Forensics Suite](https://github.com/Akhter313/HacKP-2025_AI)** -> A collection of AI-driven investigative tools built for Hac'KP 2025. Features include image metadata analysis, object segmentation, and similarity scoring.<br>
 
 ![skills](./assets/skills.svg)
-- **Languages:** Python, Bash
-- **Recon & Testing:** Burp Suite, Nmap, httpx, ffuf, Amass, Subfinder
-- **Analysis:** Wireshark, Splunk, Wazuh
+
+[+] **Languages** -> Python, Bash<br>
+[+] **Recon & Testing** -> Burp Suite, Nmap, httpx, ffuf, Amass, Subfinder<br>
+[+] **Analysis** -> Wireshark, Splunk, Wazuh<br>
 
 ![contact](./assets/contact.svg)
-- [LinkedIn](https://www.linkedin.com/in/313-akhter/)
-- [Email](mailto:akhterkamal815@gmail.com)
+
+[+] **LinkedIn** -> [linkedin.com/in/313-akhter](https://www.linkedin.com/in/313-akhter/)<br>
+[+] **Email** -> [akhterkamal815@gmail.com](mailto:akhterkamal815@gmail.com)
